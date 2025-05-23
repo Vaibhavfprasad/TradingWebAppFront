@@ -46,6 +46,11 @@ function Navbar() {
                   Support
                 </Link>
               </li>
+              <li class="nav-item">
+                <Link class="nav-link active" to="https://tradingdash.onrender.com">
+                  Dashboard
+                </Link>
+              </li>
               </ul>
           </div>
         </div>
